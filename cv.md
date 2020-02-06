@@ -6,13 +6,16 @@
     * Skype: Hotja_blr 
     * VK: https://vk.com/hotja85
 
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+3. ## **Summary**: If we are talking about training, then I want to understand the principles of building sites, to master the programming language HTML and JavaScript. Develop new knowledge and the ability to apply them in practice. Also improve my english and find new friends.
+
+4. ## **Skills**: Finished university. I have been working for system administrators for more than 10 years. I have knowledge of building LANs of different difficulty levels. Installation and configuration of server operating systems of the Windows and Linux (Debian) family. General understanding of the work and setup of hypervisors. Extensive experience in operating 1 line of technical support for users. I fix any problems because I am "тыжпрограммист". :-)
+
+5. **Code examples (LATEST)**:
+
+6. **Experience**: no programming experience
+
+7. **Education**: doing programming for the first time
+
+8. **English**: poor level of English, but high learning abilities ;-)
+
+## P.S. I apologize for my English. Used Google translator. :-)
