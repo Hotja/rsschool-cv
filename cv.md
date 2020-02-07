@@ -18,6 +18,6 @@
 
 8. **English**: poor level of English, but high learning abilities ;)
 
-## P.S. I apologize for my English. Used Google translator. :-)
+## P.S. I apologize for my English. Used Google translator. :)
 
 
