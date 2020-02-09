@@ -1,23 +1,17 @@
 table {
-    border: 1px solid black;
     border-collapse: collapse;
     border-spacing: 15px;
-    width: 50%;
     background-color: white;
 }
 
 td {
-    border: 1px solid black;
     text-align: center;
     vertical-align: middle;
-    width: 33%;
-    height: 33%;
 }
 
 .avatar-style {
-    border-radius: 100px; /* Радиус скругления */
-    border: 3px solid green; /* Параметры рамки */
-    box-shadow: 0 0 7px #666; /* Параметры тени */
+    border-radius: 100px;
+    border: 1px solid rgb(99, 99, 99);
 }
 /*
 .border {
@@ -33,5 +27,17 @@ td {
     padding: 10%;
 }
 .td2 {
-    background-color: linen;  
+    background-color: linen; 
+    padding: 25px; 
+    width: 400px;
+    text-align: center;
+    vertical-align: middle;
+
+}
+.td1 {
+    background-color: rgb(255, 255, 255); 
+    padding: 25px; 
+    width: 250px;
+    text-align: center;
+    vertical-align: top;
 }
