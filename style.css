@@ -12,6 +12,7 @@ td {
 .avatar-style {
     border-radius: 100px;
     border: 1px solid rgb(99, 99, 99);
+    height: 10%;
 }
 /*
 .border {
