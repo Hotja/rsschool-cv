@@ -1,0 +1,43 @@
+table {
+    border-collapse: collapse;
+    border-spacing: 15px;
+    background-color: white;
+}
+
+td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.avatar-style {
+    border-radius: 100px;
+    border: 1px solid rgb(99, 99, 99);
+}
+/*
+.border {
+    border: 1px solid lightgrey;
+} */
+
+.background {
+    background-color: darkslategrey;
+}
+.tdunder {
+    text-align: center;
+    vertical-align: middle;
+    padding: 10%;
+}
+.td2 {
+    background-color: linen; 
+    padding: 25px; 
+    width: 400px;
+    text-align: center;
+    vertical-align: middle;
+
+}
+.td1 {
+    background-color: rgb(255, 255, 255); 
+    padding: 25px; 
+    width: 250px;
+    text-align: center;
+    vertical-align: top;
+}
