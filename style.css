@@ -4,6 +4,13 @@ table {
     background-color: white;
 }
 
+body {
+    display: block;
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 td {
     text-align: center;
     vertical-align: middle;
@@ -12,7 +19,7 @@ td {
 .avatar-style {
     border-radius: 100px;
     border: 1px solid rgb(99, 99, 99);
-    height: 10%;
+    height: 18%;
 }
 /*
 .border {
@@ -23,22 +30,21 @@ td {
     background-color: darkslategrey;
 }
 .tdunder {
+    padding: 10%;
     text-align: center;
     vertical-align: middle;
-    padding: 10%;
 }
 .td2 {
-    background-color: linen; 
-    padding: 25px; 
     width: 400px;
+    padding: 25px; 
     text-align: center;
     vertical-align: middle;
-
+    background-color: linen; 
 }
 .td1 {
-    background-color: rgb(255, 255, 255); 
-    padding: 25px; 
     width: 250px;
+    padding: 25px; 
     text-align: center;
     vertical-align: top;
+    background-color: rgb(255, 255, 255); 
 }
