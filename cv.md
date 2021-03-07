@@ -1,6 +1,6 @@
 # My first MD page!
 
-1. ## Khotskin Siarhei                                              
+1. ## Khotskin Siarhei    ![Image alt](https://github.com/Hotja/rsschool-cv/blob/gh-pages/ava.jpg)                                          
 2. ## Contact Info :
     * e-mail: Dudechka@mail.ru
     * Skype: Hotja_blr 
