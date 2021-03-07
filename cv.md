@@ -1,6 +1,6 @@
 # My first MD page!
 
-1. ## Khotskin Siarhei                                              
+1. ## Khotskin Siarhei                                           
 2. ## Contact Info :
     * e-mail: Dudechka@mail.ru
     * Skype: Hotja_blr 
@@ -10,7 +10,7 @@
 
 4. ## **Skills**: Finished university. I have been working for system administrators for more than 10 years. I have knowledge of building LANs of different difficulty levels. Installation and configuration of server operating systems of the Windows and Linux (Debian) family. General understanding of the work and setup of hypervisors. Extensive experience in operating 1 line of technical support for users. I fix any problems because I am "тыжпрограммист". :)
 
-5. **Code examples (LATEST)**:
+5. **Code examples** (https://github.com/Hotja): тут есть варианты выполненых проектов
 
 6. **Experience**: no programming experience
 
